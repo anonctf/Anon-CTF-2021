@@ -6,7 +6,7 @@
     1138:	c7 45 fc 0e 00 00 00 	mov    DWORD PTR [rbp-0x4],0xe
     113f:	8b 55 fc             	mov    edx,DWORD PTR [rbp-0x4]
     1142:	89 d0                	mov    eax,edx
-    1144:	c1 e0 04             	shl    eax,0x4
+    1144:	c1 e0 04             	shl    eax,0x4			; shifts the bits in eax by 0x4
     1147:	29 d0                	sub    eax,edx
     1149:	89 45 fc             	mov    DWORD PTR [rbp-0x4],eax
     114c:	8b 45 fc             	mov    eax,DWORD PTR [rbp-0x4]
