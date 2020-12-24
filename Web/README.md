@@ -7,9 +7,6 @@ https://web-challenges-anonctf.000webhostapp.com/agent/
 Login:
 https://web-challenges-anonctf.000webhostapp.com/login/
 
-Flag Shop:
-https://web-challenges-anonctf.000webhostapp.com/flagshop/
-
 Under Construction:
 https://web-challenges-anonctf.000webhostapp.com/underConstruction/
 
