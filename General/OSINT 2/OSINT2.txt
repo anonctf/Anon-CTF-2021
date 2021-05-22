@@ -1,2 +1,2 @@
 What are the co-ordinates of the building shown in the image?
-flag format: anonCTF{**°**′**.**″*, **°**′**.**″*}
+flag format: anonCTF{**deg**′**.**″*, **deg**′**.**″*}
