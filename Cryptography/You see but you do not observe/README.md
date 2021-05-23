@@ -11,3 +11,8 @@ dance: dancing men cipher.<br>
 scandal: It's the title of the episode of sherlock where the lady's password is "I am SHER Locked".<br><br>
 
 Use this online tool to decipher [Dancing Men Cipher](https://www.dcode.fr/dancing-men-cipher)
+
+<p>
+  <img src="sherlock2.png">
+</p>
+If you had noticed ;)
